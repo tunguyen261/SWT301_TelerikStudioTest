@@ -13,7 +13,7 @@
 <img src="https://images.g2crowd.com/uploads/attachment/file/66584/expirable-direct-uploads_2Fd2af26e1-9951-4df4-acd2-ac2f7b73f5fd_2FMobileScrnsht_TestStudio.png">
 <img src="https://docs.telerik.com/teststudio/img/automated-tests/data-drive-test/ddt-results/test-steps.png">
 - 4.Team 7 - Members:
- - SE150557 - Nguyễn Hữu Đoan
- - SE150550 - Nguyễn Văn Quang
- - SE150545 - Nguyễn Đoàn Tú
- - SE150573 - Lê Văn Tiến
+- SE150557 - Nguyễn Hữu Đoan
+- SE150550 - Nguyễn Văn Quang
+- SE150545 - Nguyễn Đoàn Tú
+- SE150573 - Lê Văn Tiến
