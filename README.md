@@ -1,10 +1,10 @@
 # SWT301_TelerikStudioTest
 ## SOURCODE TEST DEMO TELERIK STUDIO TEST
-
-- SE150557 Nguyễn Hữu Đoan
-- SE150550 Nguyễn Văn Quang
-- SE150545 Nguyễn Đoàn Tú
-- SE150573 Lê Văn Tiến
+-Team 7:
+ - SE150557 Nguyễn Hữu Đoan
+ - SE150550 Nguyễn Văn Quang
+ - SE150545 Nguyễn Đoàn Tú
+ - SE150573 Lê Văn Tiến
 
 - 1.Slide:
 [Slide giới thiệu Telerik Test Studio](https://docs.google.com/presentation/d/1HSe71-XMzBQ2Vwn-1r7Pi2hNjwJgw1xTfTypqJkqH9M/edit#slide=id.p1)
